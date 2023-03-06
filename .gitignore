@@ -36,6 +36,7 @@ external/glew/glew.pc
 *.pdb
 *.mp4
 *.wav
+*.mat
 
 # documentation
 doc/html
